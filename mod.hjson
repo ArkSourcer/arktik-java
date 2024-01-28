@@ -1,0 +1,19 @@
+#the mod name as displayed in-game
+displayName: "Arktik-java"
+
+#the internal name of your mod
+name: "arktik-java"
+
+#your name
+author: "Ark"
+
+main: "arktik.Artik"
+
+description: "A Mindustry Arktik-java."
+
+version: 1.0
+
+minGameVersion: 146
+
+#this is a java mod
+java: true
